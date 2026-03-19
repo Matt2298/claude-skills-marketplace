@@ -1,0 +1,6 @@
+{
+  "name": "example-plugin",
+  "version": "1.0.0",
+  "description": "An example plugin to demonstrate the marketplace structure",
+  "keywords": ["example"]
+}

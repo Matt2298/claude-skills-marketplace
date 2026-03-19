@@ -1,0 +1,13 @@
+{
+  "name": "matt-marketplace",
+  "owner": {
+    "name": "Matt Ellis",
+    "email": "matt@matt2298.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code skills and plugins",
+    "repository": "https://github.com/Matt2298/claude-skills-marketplace",
+    "homepage": "https://github.com/Matt2298/claude-skills-marketplace"
+  },
+  "plugins": []
+}
