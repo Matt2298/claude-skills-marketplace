@@ -20,7 +20,23 @@ Personal [Claude Code plugins](https://docs.anthropic.com/en/docs/claude-code/pl
 
 ## Plugins
 
-_No plugins yet — add your first one by following the Contributing guide below._
+| Plugin                                | Description                                       |
+| ------------------------------------- | ------------------------------------------------- |
+| **[obsidian-tasks](#obsidian-tasks)** | Skills for working with Obsidian vault task lists |
+
+---
+
+### obsidian-tasks
+
+Skills for interacting with your Obsidian vault via the [Obsidian Tasks plugin](https://github.com/obsidian-tasks-group/obsidian-tasks).
+
+| Skill          | Description                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| `do-next-task` | Read today's daily note, pick the highest priority incomplete task, attempt to complete it, mark it done, and report back |
+
+```bash
+/plugin install obsidian-tasks@matt-marketplace
+```
 
 ---
 

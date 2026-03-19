@@ -1,0 +1,6 @@
+{
+  "name": "obsidian-tasks",
+  "version": "1.0.0",
+  "description": "Skills for working with Obsidian vault task lists",
+  "keywords": ["obsidian", "tasks", "productivity", "todo"]
+}

@@ -9,5 +9,16 @@
     "repository": "https://github.com/Matt2298/claude-skills-marketplace",
     "homepage": "https://github.com/Matt2298/claude-skills-marketplace"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "obsidian-tasks",
+      "source": "./obsidian-tasks",
+      "description": "Skills for working with Obsidian vault task lists",
+      "version": "1.0.0",
+      "author": {
+        "name": "Matt Ellis"
+      },
+      "keywords": ["obsidian", "tasks", "productivity", "todo"]
+    }
+  ]
 }
